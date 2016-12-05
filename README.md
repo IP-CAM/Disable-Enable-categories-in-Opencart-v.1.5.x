@@ -17,7 +17,3 @@ v1.0.1
 -------
 - added cache refresh on update so results show up instantly on website front-end
 
-
-Author: Derek McKee - Garuda Crafts Web Development - derek@garudacrafts.com
-Copyright: Copyright (c) 2013-2014, Derek McKee
-
